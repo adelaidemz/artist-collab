@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/artist-collab/static/css/main.450c7056.css",
-    "main.js": "/artist-collab/static/js/main.7a9b84de.js",
+    "main.js": "/artist-collab/static/js/main.ff48f1a3.js",
     "static/js/787.35ac8d1e.chunk.js": "/artist-collab/static/js/787.35ac8d1e.chunk.js",
     "index.html": "/artist-collab/index.html",
     "main.450c7056.css.map": "/artist-collab/static/css/main.450c7056.css.map",
-    "main.7a9b84de.js.map": "/artist-collab/static/js/main.7a9b84de.js.map",
+    "main.ff48f1a3.js.map": "/artist-collab/static/js/main.ff48f1a3.js.map",
     "787.35ac8d1e.chunk.js.map": "/artist-collab/static/js/787.35ac8d1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.450c7056.css",
-    "static/js/main.7a9b84de.js"
+    "static/js/main.ff48f1a3.js"
   ]
 }
